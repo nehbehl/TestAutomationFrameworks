@@ -1,8 +1,5 @@
 # Python with Healenium
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/healenium/hlm-backend.svg?maxAge=25920)](https://hub.docker.com/u/healenium)
-[![License](https://img.shields.io/badge/license-Apache-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-
 Python 3.9.5 + Pytest project with healenium usage example 
 
 [1. Start Healenium components](#1-start-healenium-components)
