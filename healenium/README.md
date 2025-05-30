@@ -14,7 +14,7 @@ Python 3.9.5 + Pytest project with healenium usage example
 
 [3. Run test](#3-run-test)
 
-[4. Monitoring tests running](#4-monitoring-tests-running)
+[4. Test Report](#4-test-report)
 
 ## How to start
 
