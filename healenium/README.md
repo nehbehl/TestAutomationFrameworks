@@ -100,11 +100,13 @@ pytest
 > If you want to execute tests from specified file, please use the command: ```python -m pytest ./tests/test_css.py```
 >> In case you want to run all tests in project use ```python -m pytest ./tests/``` command
 
-### 4. Monitoring tests running
-You can monitor tests running if you using Healenium with Selenoid plus Selenoid Ui, go to:</br>
+### 4. Test Report
+You can view the final test report at port 7878
+
 ```sh
-http://localhost:8080
+http://localhost:7878
 ```
+
 
 ## Community / Support
 
