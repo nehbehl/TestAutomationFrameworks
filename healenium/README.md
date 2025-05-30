@@ -7,7 +7,6 @@ Python 3.9.5 + Pytest project with healenium usage example
 
 [1. Start Healenium components](#1-start-healenium-components)
 * [Healenium with Selenium-Grid](#run-healenium-with-selenium-grid)
-* [Healenium with Selenoid](#run-healenium-with-selenoid)
 
 
 [2. Configuration RemoteWebDriver for Healenium](#2-configuration-remotewebdriver-for-healenium)
