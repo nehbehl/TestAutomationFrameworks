@@ -3,7 +3,7 @@ Demo Test automation frameworks:
 * Karate DSL
 * Healenium
 
-**Pre-requisites**
+**Pre-requisite for Selenium and Karate frameworks**
 
 `Make sure that Maven is installed and set in path environment variables.`
 
@@ -11,6 +11,4 @@ Demo Test automation frameworks:
 
 `mvn clean test`
 
-**Example command to run healenium test**
-
-`pytest ./tests/test_css.py`
+**Follow README under healenium directory to run healenium test**
