@@ -89,10 +89,3 @@ You can view the final test report at port 7878
 ```sh
 http://localhost:7878
 ```
-
-
-## Community / Support
-
-* [Telegram chat](https://t.me/healenium)
-* [YouTube Channel](https://www.youtube.com/channel/UCsZJ0ri-Hp7IA1A6Fgi4Hvg)
-
