@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Locators>
+
+	<LandingPage>
+		<headerLabel><![CDATA[//h1[contains(.,'Welcome to the-internet')]]]></headerLabel>
+		<uploadLink><![CDATA[//a[@href='/upload']]]></uploadLink>
+		<dropdownLink><![CDATA[//a[@href='/dropdown']]]></dropdownLink>		
+	</LandingPage>
+
+	<UploadPage>
+		<uploadTextBox><![CDATA[file-upload]]></uploadTextBox>
+	</UploadPage>
+
+	<ActionPage>
+		<dropdown><![CDATA[dropdown]]></dropdown>
+	</ActionPage>
+
+</Locators>
